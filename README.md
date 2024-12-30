@@ -1,0 +1,1 @@
+This repository showcases the key features and functionalities of NumPy, a Python library for numerical computation. It includes comprehensive examples of array operations, insights into NumPy's mathematical and logical functions, and demonstrations of array indexing, slicing, and reshaping.
